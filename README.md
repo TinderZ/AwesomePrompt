@@ -1,5 +1,7 @@
 # AwesomePrompt
 
+![code is cheap, show me your prompt](code-is-cheap.png)
+
 该项目用于收集和整理优秀的提示词 (Prompts)，方便查阅和使用。
 
 ## 目录结构
